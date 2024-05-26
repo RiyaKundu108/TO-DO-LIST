@@ -1,1 +1,1 @@
-# TO-DO-LIST
+HTML, CSS, and JavaScript is used in to-do list. Users can add tasks, mark them as completed by clicking, and remove them. You can further enhance this by adding features like saving tasks to local storage, editing tasks, or filtering tasks based on their status.
